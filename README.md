@@ -2,7 +2,7 @@
 ### :smiley_cat: Sou Wisley Tenho 44 anos, estudante apaixonado por Mobile. 📳
 
 ### Atualmente estudando Flutter: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" whidth="30" height="30"/>
-### Tambem estudando Git para melhorar meus versionamentos: <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" whidth="30" height="30"/>
+### Tambem estudando Git para melhorar meus versionamentos: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" whidth="30" height="30"/>
 
 
 
