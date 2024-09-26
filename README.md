@@ -11,7 +11,8 @@
 
 ## Minha estatistica, buscando alimentar meu git 🚀
 
-![Wisleygfgithub stats](https://github-readme-stats.vercel.app/api?username=wisleygf&show_icons=true&theme=tokyonight)
+![Wisleygf github stats](https://github-readme-stats.vercel.app/api?username=wisleygf&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wisleygf&theme=tokyonight" alt="mystreak"/>
+![Wisleygf Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisleygf&theme=tokyonight&layout=compact)
 
 
