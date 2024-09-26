@@ -1,8 +1,9 @@
 
-### :smiley_cat: I am a student at SMK Telkom Malang
+### :smiley_cat: Sou Wisley Tenho 44 anos, estudante apaixonado por Mobile. 📳
 
-### so, curently this is my first try making my readme, hope you like it 😄
-### and, you can call me asthi or seta
+### Atualmente estudando Flutter ![imagem](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+)
+
 
 ## By the way here are some of my statistics 🚀
 ![Wisleygfgithub stats](https://github-readme-stats.vercel.app/api?username=wisleygf&show_icons=true&theme=tokyonight)
