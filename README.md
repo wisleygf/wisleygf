@@ -9,7 +9,7 @@
 
 
 
-## By the way here are some of my statistics 🚀
+## Minha estatistica, buscando alimentar meu git 🚀
 ![Wisleygfgithub stats](https://github-readme-stats.vercel.app/api?username=wisleygf&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wisleygf&theme=tokyonight" alt="mystreak"/>
 
